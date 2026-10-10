@@ -1,4 +1,4 @@
-const CACHE='fk-sava-admin-v6-2';
+const CACHE='fk-sava-admin-v6-3';
 const SHELL=[
   './',
   './index.html',
